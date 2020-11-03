@@ -1,6 +1,6 @@
 # The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services Dataset
 
-This page is dedicated to the distribution of the dataset collected and used in the "The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services" paper, accepted at [SPIoT 2020] in conjunction with [SpaCCS 2020]; by Ahmed Mohamed Hussain ([Uppsala University]), Gabriele Oligeri ([Hamad Bin Khalifa University]), and Thiemo Voigt ([Uppsala University]).
+This repository is dedicated to the distribution of the dataset collected and used in the "The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services" paper, accepted at [SPIoT 2020] in conjunction with [SpaCCS 2020]; by Ahmed Mohamed Hussain ([Uppsala University]), Gabriele Oligeri ([Hamad Bin Khalifa University]), and Thiemo Voigt ([Uppsala University]).
 
 # Dataset 
 ### The data collection has been performed accordingly to the following procedure:
@@ -24,7 +24,6 @@ This page is dedicated to the distribution of the dataset collected and used in 
 
 ## License
 [GPL-3.0](https://github.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/LICENSE)
-
 [Uppsala University]: <https://www.it.uu.se/>
 [Hamad Bin Khalifa University]: <https://www.hbku.edu.qa/en/division/information-computing-technology>
 [TCPDump]: <https://www.tcpdump.org>

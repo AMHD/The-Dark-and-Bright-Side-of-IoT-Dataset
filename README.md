@@ -2,9 +2,6 @@
 
 This page is dedicated to the distribution of the dataset collected and used in the "The Dark (and Bright) Side of IoT" paper; by Ahmed Mohamed Hussain [^1], Gabriele Oligeri [^2], and Thiemo Voigt [^1].
 
-[^1]: Department of Information Technology, Uppsala University, Uppsala, Sweden.
-[^2]: Hamad Bin Khalifa University (HBKU) - College of Science and Engineering (CSE) - Division of Information and Computing Technology (ICT).
-
 ## The data collection has been performed accordingly to the following procedure:
 - We adopted airodump-ng to identify the victim access point and the devices connected to it. 
 - Identifying information such as MAC addresses and WiFi channel used by the devices in the network.
@@ -26,7 +23,9 @@ Each dataset corrosponde to the following devices -- service:
 - Raw Packet size: in bytes
 
 # License
-GPL--3.0
+GPL-3.0
 
+[^1]: Department of Information Technology, Uppsala University, Uppsala, Sweden.
+[^2]: Hamad Bin Khalifa University (HBKU) - College of Science and Engineering (CSE) - Division of Information and Computing Technology (ICT).
 [TCPDump]: <https://www.tcpdump.org>
 [Wireshark]: <https://www.wireshark.org/>

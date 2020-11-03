@@ -24,6 +24,7 @@ This repository is dedicated to the distribution of the dataset collected and us
 
 ## License
 [GPL-3.0](https://github.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/LICENSE)
+
 [Uppsala University]: <https://www.it.uu.se/>
 [Hamad Bin Khalifa University]: <https://www.hbku.edu.qa/en/division/information-computing-technology>
 [TCPDump]: <https://www.tcpdump.org>

@@ -23,7 +23,7 @@ This repository is dedicated to the distribution of the dataset collected and us
 - RAW Packet size: in **Bytes**
 
 ### Citing this work
-When using this dataset, please make sure you cite this paper as following:
+When using this dataset, please make sure you cite the paper as following:
 
 ```
 @article{hussain2020dark,

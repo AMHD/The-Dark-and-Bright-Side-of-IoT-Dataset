@@ -1,6 +1,6 @@
-# The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services Dataset
+# The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services -- Dataset
 
-This repository is dedicated to the distribution of the dataset collected and used in ***The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services*** paper, accepted at [SPIoT 2020] in conjunction with [SpaCCS 2020]; by Ahmed Mohamed Hussain ([Uppsala University]), Gabriele Oligeri ([Hamad Bin Khalifa University]), and Thiemo Voigt ([Uppsala University]).
+This repository is dedicated to the distribution of the dataset collected and used in ***The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services*** [paper], accepted at [SPIoT 2020] in conjunction with [SpaCCS 2020]; by Ahmed Mohamed Hussain ([Uppsala University]), Gabriele Oligeri ([Hamad Bin Khalifa University]), and Thiemo Voigt ([Uppsala University]).
 
 # Dataset 
 ### The data collection has been performed accordingly to the following procedure:
@@ -19,8 +19,20 @@ This repository is dedicated to the distribution of the dataset collected and us
 
 ### Each file contains the following columns:
 
-- RAW Time: in **seconds since beginning of capture**
+- RAW Time: in **Seconds since beginning of capture**
 - RAW Packet size: in **Bytes**
+
+### Citing this work
+When using this dataset, please make sure you cite this paper as following:
+
+```
+@article{hussain2020dark,
+  title={The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services},
+  author={Hussain, Ahmed Mohamed and Oligeri, Gabriele and Voigt, Thiemo},
+  journal={arXiv preprint arXiv:2009.07672},
+  year={2020}
+} 
+```
 
 ## License
 [GPL-3.0](https://github.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/LICENSE)
@@ -32,3 +44,4 @@ This repository is dedicated to the distribution of the dataset collected and us
 [Airodump-ng]: <https://www.aircrack-ng.org/doku.php?id=airodump-ng>
 [SPIoT 2020]: <http://www.spaccs.org/spiot2020/>
 [SpaCCS 2020]: <http://www.spaccs2020.com/>
+[paper]: <https://arxiv.org/abs/2009.07672>

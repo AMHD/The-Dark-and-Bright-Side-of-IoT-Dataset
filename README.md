@@ -31,7 +31,27 @@ When using this dataset, please make sure you cite the paper as following:
   author={Hussain, Ahmed Mohamed and Oligeri, Gabriele and Voigt, Thiemo},
   journal={arXiv preprint arXiv:2009.07672},
   year={2020}
-} 
+}
+
+@InProceedings{hussainIoTDark,
+  author="Hussain, Ahmed Mohamed
+  and Oligeri, Gabriele
+  and Voigt, Thiemo",
+  editor="Wang, Guojun
+  and Chen, Bing
+  and Li, Wei
+  and Di Pietro, Roberto
+  and Yan, Xuefeng
+  and Han, Hao",
+  title="{The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services}",
+  booktitle="Security, Privacy, and Anonymity in Computation, Communication, and Storage",
+  year="2021",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="122--136",
+  abstract="We present a new machine learning-based attack that exploits network patterns to detect the presence of smart IoT devices and running services in the   WiFi radio spectrum. We perform an extensive measurement campaign of data collection, and we build up a model describing the traffic patterns characterizing three popular IoT smart home devices, i.e., Google Nest Mini, Amazon Echo, and Amazon Echo Dot. We prove that it is possible to detect and identify with overwhelming probability their presence and the services running by the aforementioned devices in a crowded WiFi scenario. This work proves that standard encryption techniques alone are not sufficient to protect the privacy of the end-user, since the network traffic itself exposes the presence of both the device and the associated service. While more work is required to prevent non-trusted third parties to detect and identify the user's devices, we introduce Eclipse, a technique to mitigate these types of attacks, which reshapes the traffic making the identification of the devices and the associated services similar to the random classification baseline.",
+  isbn="978-3-030-68884-4"
+}
 ```
 
 ## License

@@ -26,13 +26,26 @@ This repository is dedicated to the distribution of the dataset collected and us
 When using this dataset, please make sure you cite the paper as following:
 
 ```
+@inproceedings{hussain2020dark,
+  title="{The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services}",
+  author={Hussain, Ahmed Mohamed and Oligeri, Gabriele and Voigt, Thiemo},
+  booktitle={International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage},
+  pages={122--136},
+  year={2020},
+  organization={Springer}
+}
+```
+or
+```
 @article{hussain2020dark,
-  title={The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services},
+  title="{The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services}",
   author={Hussain, Ahmed Mohamed and Oligeri, Gabriele and Voigt, Thiemo},
   journal={arXiv preprint arXiv:2009.07672},
   year={2020}
 }
-
+```
+or
+```
 @InProceedings{hussainIoTDark,
   author="Hussain, Ahmed Mohamed
   and Oligeri, Gabriele

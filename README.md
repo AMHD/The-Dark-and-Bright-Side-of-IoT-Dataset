@@ -11,11 +11,11 @@ This repository is dedicated to the distribution of the dataset collected and us
 - Extract the time and packet size associated with each over-the-air message.
 
 ### Each dataset corrosponde to the following device -- service (direct access to the RAW files):
-- [Amazon Echo -- Music](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/Amazon%20Echo%20--%20Music.txt)
-- [Amazon Echo -- News](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/Amazon%20Echo%20--%20News.txt)
+- [Amazon Echo -- Music](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/main/Amazon%20Echo%20--%20Music.txt)
+- [Amazon Echo -- News](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/main/Amazon%20Echo%20--%20News.txt)
 - [Amazon Echo Dot -- Music](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/main/Amazon%20Echo%20Dot%20--%20Music.txt)
 - [Amazon Echo Dot -- News](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/main/Amazon%20Echo%20Dot%20--%20News.txt)
-- [Google Nest Mini -- Music](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/blob/main/Google%20Nest%20Mini%20--%20Music.txt)
+- [Google Nest Mini -- Music](https://raw.githubusercontent.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset/main/Google%20Nest%20Mini%20--%20Music.txt)
 
 ### Each file contains the following columns:
 

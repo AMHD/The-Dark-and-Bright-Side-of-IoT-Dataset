@@ -2,6 +2,8 @@
 
 This repository is dedicated to the distribution of the dataset collected and used in ***The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services*** [paper], accepted at [SPIoT 2020] in conjunction with [SpaCCS 2020]; by Ahmed Mohamed Hussain ([Uppsala University]), Gabriele Oligeri ([Hamad Bin Khalifa University]), and Thiemo Voigt ([Uppsala University]).
 
+***The maintainer of this repository is Ahmed Hussain. For any inquiries, please email him @ ahmhus@kth.se***
+
 # Dataset 
 ### The data collection has been performed accordingly to the following procedure:
 - We adopted [Airodump-ng] to identify the victim access point and the devices connected to it. 
